@@ -1,0 +1,8 @@
+echo "# Rakin" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rakin6/Rakin.git
+git push -u origin main
+python rakin69.py
