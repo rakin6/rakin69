@@ -1,6 +1,6 @@
-#Create By: MUMIT ISLAM HIMU
-#FaceBook: Mumit Islam
-#GitHub: https://github.com/MUMIT-404-CYBER
+#Create By: RAKIN RAJ
+#FaceBook: Rakin Raj
+#GitHub: https://github.com/rakinraj.king
 #---------------------------------------------------------------------------#
 import os,sys,time,json,random,re,string,platform,base64,uuid
 from bs4 import BeautifulSoup as sop
@@ -72,7 +72,7 @@ for xd in range(10000):
     f=random.randrange(1, 99)
     uaku2=(f'{a}{b}{c}{d}{e}{f}')
     ugen.append(uaku2)
-os.system('xdg-open https://github.com/MUMIT-404-CYBER')
+os.system('xdg-open https://github.com/rakin6')
 logo = ("""
 ▄▄▄▄▄▄              ▄▄           ██
  ██▀▀▀▀██            ██           ▀▀
@@ -88,7 +88,7 @@ logo = ("""
  ┃ [✓] SYSTEM    \033[1;91m: \033[1;92mDATA & WIFI                ┃
  ┃ [✓] GITHUB    \033[1;91m: \033[1;92mRAKIN-404-CYBER            ┃
  ┃ [✓] FACEBOOK  \033[1;91m: \033[1;92mSijuka R                ┃
- ┃ [✓] WHATSAPP  \033[1;91m: \033[1;92m+8801862145774             ┃
+ ┃ [✓] WHATSAPP  \033[1;91m: \033[1;92m+8801324885155             ┃
  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛""")
 
 class Main:
