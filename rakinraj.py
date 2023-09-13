@@ -135,8 +135,8 @@ def num():
         print(logo)
         tl = str(len(user))
         print(' \033[1;97m[+] Total ids:\033[1;92m '+tl)
-        print(' \033[1;97m[+] Process has been started')
-        print(' \033[1;97m[!] Wait for ids ')
+        print(' \033[1;97m[+] Process ok id started')
+        print(' \033[1;97m[!] Wait for ok ids ')
         print(' \033[1;97m[!] Use flight mode for speed up ')
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         for guru in user:
